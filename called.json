@@ -117,5 +117,12 @@
     "phone": "+1-781-891-6231",
     "address": "",
     "city": ""
+  },
+  "zzz-synctest|probe": {
+    "name": "Sync Probe",
+    "category": "test",
+    "phone": "",
+    "address": "probe",
+    "city": ""
   }
 }
