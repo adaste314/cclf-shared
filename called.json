@@ -1,1 +1,121 @@
-{}
+{
+  "frank\u2019s barber shop|623 main street waltham": {
+    "name": "Frank\u2019s Barber Shop",
+    "category": "hairdresser",
+    "phone": "+1-781-893-9465",
+    "address": "623 Main Street Waltham",
+    "city": "Waltham"
+  },
+  "t & t nails|651 main street waltham": {
+    "name": "T & T Nails",
+    "category": "beauty",
+    "phone": "+1-781-894-3254",
+    "address": "651 Main Street Waltham",
+    "city": "Waltham"
+  },
+  "tabrizi bakery|56 mount auburn street watertown": {
+    "name": "Tabrizi Bakery",
+    "category": "bakery",
+    "phone": "+1 617 926 0880",
+    "address": "56 Mount Auburn Street Watertown",
+    "city": "Watertown"
+  },
+  "georgios liquors|475 winter street waltham": {
+    "name": "Georgios Liquors",
+    "category": "alcohol",
+    "phone": "+1-781-373-2066",
+    "address": "475 Winter Street Waltham",
+    "city": "Waltham"
+  },
+  "kre kirsch real estate|567 moody street waltham": {
+    "name": "KRE Kirsch Real Estate",
+    "category": "estate agent",
+    "phone": "+1-781-899-1050",
+    "address": "567 Moody Street Waltham",
+    "city": "Waltham"
+  },
+  "dominican grill|897 main street waltham": {
+    "name": "Dominican Grill",
+    "category": "restaurant",
+    "phone": "+1-781-472-2810",
+    "address": "897 Main Street Waltham",
+    "city": "Waltham"
+  },
+  "market basket|110 marketplace drive waltham": {
+    "name": "Market Basket",
+    "category": "supermarket",
+    "phone": "+1 781 894 1510",
+    "address": "110 Marketplace Drive Waltham",
+    "city": "Waltham"
+  },
+  "starbucks|+1 617-796-3720": {
+    "name": "Starbucks",
+    "category": "cafe",
+    "phone": "+1 617-796-3720",
+    "address": "",
+    "city": ""
+  },
+  "shell|+1-617-558-9778": {
+    "name": "Shell",
+    "category": "fuel",
+    "phone": "+1-617-558-9778",
+    "address": "",
+    "city": ""
+  },
+  "supercuts|+1617-928-0660": {
+    "name": "Supercuts",
+    "category": "hairdresser",
+    "phone": "+1617-928-0660",
+    "address": "",
+    "city": ""
+  },
+  "aries noodle and dumpling|617 main street waltham": {
+    "name": "Aries Noodle and Dumpling",
+    "category": "restaurant",
+    "phone": "+17812090008",
+    "address": "617 Main Street Waltham",
+    "city": "Waltham"
+  },
+  "blue moon smoke shop|80 main street": {
+    "name": "Blue Moon Smoke Shop",
+    "category": "tobacco",
+    "phone": "+1617-744-5144",
+    "address": "80 Main Street",
+    "city": ""
+  },
+  "dion's|850 lexington street": {
+    "name": "Dion's",
+    "category": "alcohol",
+    "phone": "+1-617-964-2000",
+    "address": "850 Lexington Street",
+    "city": ""
+  },
+  "ophthalmic consultants of boston|52 second avenue waltham": {
+    "name": "Ophthalmic Consultants of Boston",
+    "category": "doctors",
+    "phone": "+1 781 487 2200",
+    "address": "52 Second Avenue Waltham",
+    "city": "Waltham"
+  },
+  "queen nails salon|627 main street waltham": {
+    "name": "Queen Nails Salon",
+    "category": "beauty",
+    "phone": "+1-781-647-3163",
+    "address": "627 Main Street Waltham",
+    "city": "Waltham"
+  },
+  "john frankiewicz: allstate insurance|655 main street waltham": {
+    "name": "John Frankiewicz: Allstate Insurance",
+    "category": "insurance",
+    "phone": "+1-781-547-6522",
+    "address": "655 Main Street Waltham",
+    "city": "Waltham"
+  },
+  "pini's pizza|+1-781-891-6231": {
+    "name": "Pini's Pizza",
+    "category": "restaurant",
+    "phone": "+1-781-891-6231",
+    "address": "",
+    "city": ""
+  }
+}
